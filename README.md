@@ -88,3 +88,7 @@ val key = BuildConfig.KEY_USER
 ```
 
 ---
+
+### Credits
+
+- https://guides.codepath.com/android/Storing-Secret-Keys-in-Android
